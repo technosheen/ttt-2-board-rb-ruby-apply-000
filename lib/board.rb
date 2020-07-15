@@ -1,1 +1,1 @@
-board = Array.New
+board = Array.new 
